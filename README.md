@@ -1,4 +1,4 @@
-# Youtube-Video-and-Audio-merge
+# Youtube Video and Audio merge
 This is a simple bat script that combine video downloaded from youtube into a 1080p video with sound.
 
 ## How to use it
@@ -9,6 +9,9 @@ This is a simple bat script that combine video downloaded from youtube into a 10
 5. Run the bat script
 6. The script will ask you to enter the filename. You can copy the title from your Youtube video or just give it a new name.
 7. Press Enter and wait for the conversion finish :)
+
+## Why I need this?
+Youtube have since removed the audio track from 720p's video since the 2018. Hence, if you want to download a 720p video or 1080p video from youtube with audio track included in the video file, you need to merge it yourself. This simple bat script provides you a one-click merging with the help of the FFmpeg project.
 
 ## Disclaimer
 I do not own any part of the FFmpeg.exe. This file is here just for the user's convenience. Please refer to FFmpeg's website for more information.
